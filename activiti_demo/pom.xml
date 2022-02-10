@@ -9,7 +9,7 @@
 	<properties>
 		<activiti.version>5.19.0</activiti.version>
 		<spring.version>4.3.2.RELEASE</spring.version>
-		<hibernate.version>4.2.1.Final</hibernate.version>
+		<hibernate.version>5.4.24.Final</hibernate.version>
 	</properties>
 
 	<dependencies>
